@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./publiiterentiia04teregoog/publiiterentiia04teregoog_0284.png"; bbox 0 0 2098 3678; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 214 257 805 355">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 214 257 805 355">
+     <span class='ocr_line' id='line_1_1' title="bbox 214 257 805 355; baseline -0.003 -16"><span class='ocrx_word' id='word_1_1' title='bbox 214 271 279 355; x_wconf 77' lang='lat'>248</span> <span class='ocrx_word' id='word_1_2' title='bbox 317 257 420 338; x_wconf 68' lang='lat' dir='ltr'>Ano.</span> <span class='ocrx_word' id='word_1_3' title='bbox 435 282 485 335; x_wconf 74' lang='lat' dir='ltr'><em>m</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 501 264 805 337; x_wconf 72' lang='grc' dir='ltr'><em>ΗεΑυτοΝτιΜ.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 211 420 904 728">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 211 420 920 728">
+     <span class='ocr_line' id='line_1_2' title="bbox 212 420 904 506; baseline 0.008 -21"><span class='ocrx_word' id='word_1_5' title='bbox 212 441 336 487; x_wconf 77' lang='lat' dir='ltr'>terarum</span> <span class='ocrx_word' id='word_1_6' title='bbox 362 420 523 484; x_wconf 81' lang='lat' dir='ltr'>fabularum</span> <span class='ocrx_word' id='word_1_7' title='bbox 547 440 750 506; x_wconf 80' lang='lat' dir='ltr'><strong>argumentum</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 772 442 831 484; x_wconf 86' lang='lat' dir='ltr'>uno</span> <span class='ocrx_word' id='word_1_9' title='bbox 853 422 904 490; x_wconf 66' lang='grc' dir='ltr'>ὼε</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 211 527 901 613; baseline 0.017 -26"><span class='ocrx_word' id='word_1_10' title='bbox 211 529 351 598; x_wconf 67' lang='lat' dir='ltr'>contineri</span> <span class='ocrx_word' id='word_1_11' title='bbox 370 527 578 613; x_wconf 84' lang='lat' dir='ltr'><strong>soleat,hujus</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 597 550 658 596; x_wconf 84' lang='lat' dir='ltr'>non</span> <span class='ocrx_word' id='word_1_13' title='bbox 669 532 724 596; x_wconf 80' lang='lat' dir='ltr'><strong>nisi</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 741 530 832 596; x_wconf 84' lang='lat' dir='ltr'>biduo</span> <span class='ocrx_word' id='word_1_15' title='bbox 847 550 901 598; x_wconf 82' lang='lat' dir='ltr'>ex·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 212 631 434 728; baseline 0.014 -33"><span class='ocrx_word' id='word_1_16' title='bbox 212 631 312 716; x_wconf 77' lang='lat' dir='ltr'>plicari</span> <span class='ocrx_word' id='word_1_17' title='bbox 327 649 434 728; x_wconf 74' lang='lat' dir='ltr'><strong>potest·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1054 3678">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1054 3678">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1054 3678; baseline 0 9"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1054 3678; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
